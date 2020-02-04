@@ -1,0 +1,8 @@
+{
+  "batch_sizes": [
+    32
+  ],
+  "n_batches": 512,
+  "parallel_loader": -1,
+  "inter_op": 0
+}

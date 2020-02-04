@@ -1,0 +1,13 @@
+{
+  "processor": "x86_64",
+  "python_version": "3.7.6",
+  "python_compiler": "GCC 7.3.0",
+  "hostname": "nid03830",
+  "os": "Linux-4.4.103-6.38_4.0.154-cray_ari_c-x86_64-with-SuSE-12-x86_64",
+  "cpu_name": "x86_64",
+  "n_cores": 256,
+  "accessible_cores": 16,
+  "gpus": [],
+  "total_ranks": 32,
+  "ranks_per_node": 8
+}
