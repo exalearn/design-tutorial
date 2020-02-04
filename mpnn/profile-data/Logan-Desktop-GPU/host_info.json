@@ -1,0 +1,13 @@
+{
+  "processor": "AMD64",
+  "python_version": "3.7.5",
+  "python_compiler": "MSC v.1916 64 bit (AMD64)",
+  "hostname": "Logan-Desktop",
+  "os": "Windows-10-10.0.18362-SP0",
+  "cpu_name": "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel",
+  "n_cores": 4,
+  "accessible_cores": 4,
+  "gpus": [
+    "device: 0, name: GeForce GTX 670, pci bus id: 0000:01:00.0, compute capability: 3.0"
+  ]
+}

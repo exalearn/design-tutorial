@@ -1,0 +1,17 @@
+{
+  "description": "Parallel with threads fixed at 4, prefetching, data on disk",
+  "batch_sizes": [
+    64,
+    128,
+    256,
+    1024,
+    2048
+  ],
+  "rates": [
+    270.728649009109,
+    209.59611581889786,
+    168.87969060347098,
+    121.9740618154631,
+    125.67880037796945
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "batch_sizes": [
+    64,
+    128,
+    256,
+    1024,
+    2048
+  ],
+  "test_batches": 512,
+  "parallel": 32,
+  "shm": true
+}
