@@ -1,0 +1,9 @@
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ase==3.19.0
+  - pytest
+  - pip
+  - pip:
+      - -e .  # The graphsage libraries in development mode
